@@ -1,5 +1,6 @@
 # Consultas a la base de datos Adventure Works 
-![](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Ftimextender.teachable.com%2Fcourses%2F828772%2Flectures%2F23013318&ved=0CBYQjRxqFwoTCLDy_bKOmpIDFQAAAAAdAAAAABAI&opi=89978449))
+[
+](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Ftimextender.teachable.com%2Fcourses%2F828772%2Flectures%2F23013318&ved=0CBYQjRxqFwoTCLDy_bKOmpIDFQAAAAAdAAAAABAI&opi=89978449)<img width="3572" height="2213" alt="image" src="https://github.com/user-attachments/assets/634598af-6e87-490a-bd11-cc5c27598e77" />
 ## Project Overview:
 The Belarus Car Price Prediction project aims to forecast the prices of cars in Belarus by leveraging a dataset containing essential car features. These features include the make, model, year of production, condition, mileage, fuel type, engine volume, color, transmission type, drive unit, and segment. With a total of 56,244 rows and 12 columns, this project seeks to identify the key variables that have the most significant impact on car prices within the Belarusian market.
 
