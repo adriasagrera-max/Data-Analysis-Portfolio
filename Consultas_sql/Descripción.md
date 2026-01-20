@@ -9,7 +9,10 @@ Supongamos que somos analistas de Business Intelligence de la empresa, y se nos 
 
 1. "Generar un dataset de series temporales (2011-2014) que unifique las ventas globales diarias con el desglose por regiones (EEUU, Europa y Pacífico), utilizando subconsultas vinculadas por fecha para consolidar la información en una sola consulta base."
 
+2. "Construir un dataset demográfico de clientes individuales (no tiendas) que consolide el gasto total acumulado con variables clave (edad, país, ingresos y educación), integrando datos de ventas, geografía y demografía mediante el cálculo de edad"
 
+3. "Crear una variable binaria (1/0) que identifique a los clientes que han comprado bicicletas frente a los que no, integrando esta información mediante una subconsulta al dataset previo para habilitar el análisis de clasificación (regresión logística)."
+   
 ## Data Dictionary:
 
 | Variable        | Description                                                |
