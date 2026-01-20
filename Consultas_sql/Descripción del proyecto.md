@@ -16,27 +16,3 @@ Supongamos que somos analistas de Business Intelligence de la empresa, y se nos 
 
 4. CLASIFICACIÓN (REGRESIÓN LOGÍISTICA):
    "Crear una variable binaria (1/0) que identifique a los clientes que han comprado bicicletas frente a los que no, integrando esta información mediante una subconsulta al dataset previo para          habilitar el análisis de clasificación (regresión logística)."
-   
-## Data Dictionary:
-
-| Variable        | Description                                                |
-|-----------------|------------------------------------------------------------|
-| make            | Machine firm or car manufacturer                           |
-| model           | Machine model                                              |
-| price USD       | Price in USD (target variable)                             |
-| year            | Year of production                                         |
-| condition       | Represents the condition at the sale moment                |
-| mileage         | Mileage in kilometers                                      |
-| fuel type       | Type of fuel (electro, petrol, diesel)                     |
-| volume(cm3)     | Volume of the engine in cubic centimeters                  |
-| color           | Color of the car                                           |
-| transmission    | Type of transmission                                       |
-| drive unit      | Drive unit                                                 |
-| segment         | Segment of the car                                         |
-
-## Impact:
-Through exploratory data analysis, several key insights were discovered. Notably, there was a significant increase in car prices in Belarus after the year 2000. Cars running on petrol with automatic transmission tend to have higher prices compared to diesel cars with manual transmission. Electric cars stand out as notably more expensive than other car types. Furthermore, cars with all-wheel drive exhibit the highest prices among all drive units, and speciality segment cars command the highest prices among all segments, followed by luxury European, American, and Asian car segments.
-
-For the predictive modeling, a decision tree regressor was employed to forecast car prices. This model achieved an impressive accuracy rate of 85.29%. The most influential features in predicting car prices were identified as the year of production and the engine's volume in cubic centimeters.
-
-This project offers valuable insights for both car buyers and sellers in Belarus, helping them make informed decisions in a dynamic automotive market.
