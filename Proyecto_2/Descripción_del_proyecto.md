@@ -16,6 +16,6 @@ En este proyecto, actuamos como analistas de Business Intelligence para la compa
 - Utilizando el **modelo de clústerización K-means**, se han segmentado los clientes en 5 grupos diferenciados. Se ha logrado aislar el Clúster 4 (Segmento VIP), caracterizado por una facturación masiva, una propensión de compra absoluta y niveles de renta elevados. Este grupo representa la mayor oportunidad de negocio, ya que factura de media 5 veces más que los otros 4 grupos restantes combinados.
 
 ### 📂 Recursos 
-* [📄 Ver Informe (PDF)](Proyecto_2/Analisis_y_Modelos_de_Aprendizaje.pdf)
+* [📄 Ver Informe (PDF)](Analisis_y_Modelos_de_Aprendizaje.pdf)
 * [💻 Ver Script (R)](Proyecto_2/Codigo_Proyecto.R)
 * [📊 Ver Presentación (CSV)](Proyecto_2/Slides_CEO.pdf)
