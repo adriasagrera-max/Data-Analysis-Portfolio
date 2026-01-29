@@ -5,7 +5,7 @@ Este repositorio contiene una colección de mis proyectos de anàlisis de datos,
 🛠️ Trabajando y perfeccionando nuevos proyectos de análisis de datos para subir próximamente. Sígueme para no perderte las novedades!
 
 ## Proyectos SQL 
-[1. Consultas a la Base de datos (Adventure works)](Consultas_sql/)
+[1. Consultas a la Base de datos (Adventure works)](Proyecto_1/)
 - Descripción: Consultas a la base de datos de la empresa Adventure Works para extraer datasets para su posterior modelado/analisis
 - Programas y modelos: Se ha usado el lenguaje de programación SQL y el programa MySQL.
 - Resultados: Tres datasets en formato csv que contienen la información requerida por dirección.
