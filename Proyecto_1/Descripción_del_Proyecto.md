@@ -16,3 +16,7 @@ Supongamos que somos analistas de Business Intelligence de la empresa, y se nos 
 
 4. CLASIFICACIÓN (REGRESIÓN LOGÍISTICA):
    "Crear una variable binaria (1/0) que identifique a los clientes que han comprado bicicletas frente a los que no, integrando esta información mediante una subconsulta al dataset previo para          habilitar el análisis de clasificación (regresión logística)."
+
+### 📂 Recursos 
+* [💻 Ver Script (SQL)](Consultas.sql)
+* [📊 Ver Consultas (CSV)](Consultas/)
