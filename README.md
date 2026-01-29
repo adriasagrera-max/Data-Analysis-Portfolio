@@ -11,8 +11,10 @@ Este repositorio contiene una colección de mis proyectos de anàlisis de datos,
 - Resultados: Tres datasets en formato csv que contienen la información requerida por dirección.
 
 ## Proyectos R
-[1. Análisis y Modelos de Aprendizaje ()](Proyecto_2/)
-
+[1. Análisis y Modelos de Aprendizaje (Adventure Works)](Proyecto_2/)
+- Descripción: Análisis exploratorio de los datos y Modelos de Aprendizaje, para dar respuesta a las cuestiones planteadas por el CEO de la empresa. 
+- Programas y modelos: Se ha usado el lenguaje de programación R y el programa RStudio. Se han creado modelos de Regresión Logística, Árboles de decisión y Clusterización (K-means).
+- Resultados: Un informe tècnico donde se muestra el análisis exploratorio y se detallan los modelos planteados. Slides para presentar las custiones resueltas a dirección.
 
 ## Proyectos PYTHON
 
