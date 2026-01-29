@@ -11,7 +11,7 @@ Este repositorio contiene una colección de mis proyectos de anàlisis de datos,
 - Resultados: Tres datasets en formato csv que contienen la información requerida por dirección.
 
 ## Proyectos R
-[1. Análisis exploratorio y modelos de aprendizaje supervisado y no supervisado ()](AdventureWorksR/)
+[1. Análisis y Modelos de Aprendizaje ()](Proyecto%2/)
 
 
 ## Proyectos PYTHON
