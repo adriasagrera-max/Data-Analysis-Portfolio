@@ -14,3 +14,8 @@ En este proyecto, actuamos como analistas de Business Intelligence para la compa
 
 3. ¿Existe un grupo de clientes de alto valor?
 - Utilizando el **modelo de clústerización K-means**, se han segmentado los clientes en 5 grupos diferenciados. Se ha logrado aislar el Clúster 4 (Segmento VIP), caracterizado por una facturación masiva, una propensión de compra absoluta y niveles de renta elevados. Este grupo representa la mayor oportunidad de negocio, ya que factura de media 5 veces más que los otros 4 grupos restantes combinados.
+
+### 📂 Recursos del Proyecto
+* [📄 Ver Informe (PDF)](Proyecto_2/Análisis_y_Modelos_de_Aprendizaje.pdf)
+* [💻 Ver Script (R)](Proyecto_2/Código_Proyecto.R)
+* [📊 Ver Presentación (CSV)](Proyecto_2/Slides_CEO.csv)
