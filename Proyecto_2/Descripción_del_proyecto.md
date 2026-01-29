@@ -17,5 +17,5 @@ En este proyecto, actuamos como analistas de Business Intelligence para la compa
 
 ### 📂 Recursos 
 * [📄 Ver Informe (PDF)](Analisis_y_Modelos_de_Aprendizaje.pdf)
-* [💻 Ver Script (R)](Proyecto_2/Codigo_Proyecto.R)
-* [📊 Ver Presentación (CSV)](Proyecto_2/Slides_CEO.pdf)
+* [💻 Ver Script (R)](Codigo_Proyecto.R)
+* [📊 Ver Presentación (CSV)](Slides_CEO.pdf)
