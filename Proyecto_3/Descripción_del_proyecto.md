@@ -4,6 +4,10 @@
   <img width="705" height="575" alt="Vista previa del Dashboard" src="https://github.com/user-attachments/assets/4281826a-a84c-46c9-9d92-3196bd950b4e" />
 </p>
 
+<p align="center">
+<img width="1275" height="714" alt="image" src="https://github.com/user-attachments/assets/6221f2c2-f6cf-452f-acfe-902b5a0847d1" />
+</p>
+
 ## 📝 Descripción del Proyecto
 
 Este proyecto es una solución integral de análisis de datos (End-to-End) orientada al **scouting deportivo**. Su objetivo principal es evaluar, comparar y destacar perfiles de jugadoras ("En el Radar") para facilitar la toma de decisiones en posibles incorporaciones y análisis de mercado.
@@ -43,25 +47,5 @@ scouting-dashboard/
 └── README.md               # Documentación del proyecto
 \`\`\`
 
-## 🚀 Cómo reproducir este proyecto
 
-Si quieres explorar el código o ver el dashboard en tu máquina local:
 
-1. **Clona el repositorio:**
-   \`\`\`bash
-   git clone https://github.com/[TuUsuario]/scouting-dashboard.git
-   \`\`\`
-2. **Prepara el entorno Python:**
-   \`\`\`bash
-   pip install -r etl/requirements.txt
-   python etl/etl_process.py
-   \`\`\`
-3. **Abre el Dashboard:**
-   * Abre el archivo `power_bi/scouting_dashboard.pbix` con Power BI Desktop.
-   * *Nota: Para visualizar el gráfico de radar correctamente, asegúrate de tener R instalado en tu equipo y configurado en las opciones de Power BI.*
-
-## 👤 Autor
-
-**[Tu Nombre/Apellidos]**
-* LinkedIn: [Enlace a tu perfil]
-* Portfolio: [Enlace a tu web o Notion si tienes]
