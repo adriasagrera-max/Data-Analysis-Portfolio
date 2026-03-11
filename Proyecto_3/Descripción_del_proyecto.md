@@ -1,21 +1,27 @@
 # ⚽ Scouting Dashboard: FCBARCELONA scouting
+
 <p align="center">
-<img width="1275" height="714" alt="image" src="https://github.com/user-attachments/assets/6221f2c2-f6cf-452f-acfe-902b5a0847d1" />
+  <strong>Vista General del Dashboard de Scouting</strong><br>
+  <img width="850" alt="Vista General" src="https://github.com/user-attachments/assets/6221f2c2-f6cf-452f-acfe-902b5a0847d1" />
 </p>
 
 <p align="center">
-<img width="1274" height="713" alt="image" src="https://github.com/user-attachments/assets/7cd95a5d-3535-4a23-a551-4fb64aad5c91" />
+  <strong>Análisis de Rendimiento y Filtros</strong><br>
+  <img width="850" alt="Análisis Detallado" src="https://github.com/user-attachments/assets/7cd95a5d-3535-4a23-a551-4fb64aad5c91" />
 </p>
 
 <p align="center">
-  <img width="705" height="575" alt="Vista previa del Dashboard" src="https://github.com/user-attachments/assets/4281826a-a84c-46c9-9d92-3196bd950b4e" />
+  <strong>Gráfico de Radar: Comparativa de Perfiles (R Script)</strong><br>
+  <img width="470" alt="Vista previa del Dashboard" src="https://github.com/user-attachments/assets/4281826a-a84c-46c9-9d92-3196bd950b4e" />
 </p>
 
 ## 📝 Descripción del Proyecto
 
-Este proyecto es una solución integral de análisis de datos (End-to-End) orientada al **scouting deportivo**. Su objetivo principal es evaluar, comparar y destacar perfiles de jugadoras ("En el Radar") para facilitar la toma de decisiones en posibles incorporaciones y análisis de mercado.
+Este proyecto es una solución integral de análisis de datos (End-to-End) diseñada como un caso de uso realista para el área de *scouting* del **FC Barcelona Femení**. Su objetivo principal es evaluar, comparar y destacar perfiles de jugadoras de las principales ligas del mundo para facilitar la toma de decisiones estratégicas en el mercado de fichajes.
 
-El proyecto abarca desde la extracción y limpieza de datos en crudo, hasta la visualización interactiva avanzada, combinando múltiples tecnologías para obtener el mejor rendimiento y diseño posible.
+Tradicionalmente, los ojeadores y responsables deportivos con perfiles menos técnicos dependían de múltiples consultas al departamento de IT para extraer cruces de datos o aplicar filtros específicos. Esta dinámica generaba cuellos de botella y ralentizaba el análisis de mercado. Con este dashboard, el objetivo es democratizar el acceso al dato. Ahora, cualquier usuario de la secretaría técnica puede interactuar de forma autónoma con la información, aplicar filtros complejos y obtener *insights* visuales en cuestión de segundos, ahorrando un tiempo valiosísimo tanto al área deportiva como al equipo tecnológico.
+
+A nivel técnico, el proyecto arranca con datos públicos extraídos de Kaggle. Mediante un proceso ETL desarrollado en Python, me encargué de limpiar y estructurar la información bruta hasta consolidar un *dataset* final de alta calidad con aproximadamente 1.600 registros útiles de jugadoras de élite. Posteriormente, estos datos se integraron en Power BI bajo una arquitectura de modelo en estrella. Este diseño centraliza las métricas y distribuye los atributos en tablas dimensionales, garantizando un rendimiento óptimo y escalable.
 
 ## 🛠️ Tecnologías Utilizadas
 
