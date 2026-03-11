@@ -1,4 +1,4 @@
-# ⚽ Scouting Dashboard: Análisis de Perfiles Femeninos
+# ⚽ Scouting Dashboard: FCBARCELONA scouting
 <p align="center">
 <img width="1275" height="714" alt="image" src="https://github.com/user-attachments/assets/6221f2c2-f6cf-452f-acfe-902b5a0847d1" />
 </p>
