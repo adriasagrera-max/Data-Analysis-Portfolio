@@ -1,11 +1,10 @@
 # ⚽ Scouting Dashboard: Análisis de Perfiles Femeninos
-
 <p align="center">
-  <img width="705" height="575" alt="Vista previa del Dashboard" src="https://github.com/user-attachments/assets/4281826a-a84c-46c9-9d92-3196bd950b4e" />
+<img width="1275" height="714" alt="image" src="https://github.com/user-attachments/assets/6221f2c2-f6cf-452f-acfe-902b5a0847d1" />
 </p>
 
 <p align="center">
-<img width="1275" height="714" alt="image" src="https://github.com/user-attachments/assets/6221f2c2-f6cf-452f-acfe-902b5a0847d1" />
+  <img width="705" height="575" alt="Vista previa del Dashboard" src="https://github.com/user-attachments/assets/4281826a-a84c-46c9-9d92-3196bd950b4e" />
 </p>
 
 ## 📝 Descripción del Proyecto
