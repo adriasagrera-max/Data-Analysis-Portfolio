@@ -1,17 +1,17 @@
 # ⚽ Scouting Dashboard: FCBARCELONA scouting
 
 <p align="center">
-  <strong>Vista General del Dashboard de Scouting</strong><br>
+  <strong>Página 1: Filtros y Jugadoras objetivo </strong><br>
   <img width="850" alt="Vista General" src="https://github.com/user-attachments/assets/6221f2c2-f6cf-452f-acfe-902b5a0847d1" />
 </p>
 
 <p align="center">
-  <strong>Análisis de Rendimiento y Filtros</strong><br>
+  <strong>Página 2: Atributos destacables y gráfico de radar </strong><br>
   <img width="850" alt="Análisis Detallado" src="https://github.com/user-attachments/assets/7cd95a5d-3535-4a23-a551-4fb64aad5c91" />
 </p>
 
 <p align="center">
-  <strong>Gráfico de Radar: Comparativa de Perfiles (R Script)</strong><br>
+  <strong>Modelo de estrella</strong><br>
   <img width="470" alt="Vista previa del Dashboard" src="https://github.com/user-attachments/assets/4281826a-a84c-46c9-9d92-3196bd950b4e" />
 </p>
 
