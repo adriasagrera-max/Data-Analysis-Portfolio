@@ -35,7 +35,11 @@ A nivel técnico, el proyecto cuenta con datos públicos extraídos de Kaggle. M
 
 
 
-## 📂 Estructura del Repositorio
+## 📂 Recursos
+* [Ver Dashboard (pbix)](Dashboard_FCB_scouting.pbix)
+* [Ver Script: gráfico radar (R)](Gráfico_radar.R)
+* [Ver Proceso (ETL)](Proceso_ETL_.ipynb)
+
 
 
 
