@@ -1,7 +1,4 @@
-# PROYECTO EN DESARROLLO
-
-
-# ⚽ Scouting Dashboard: FCBARCELONA scouting
+# ⚽ Scouting Dashboard: FCBARCELONA Femení
 
 <p align="center">
   <strong>Página 1: Filtros y Jugadoras objetivo </strong><br>
