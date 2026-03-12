@@ -20,3 +20,9 @@ Este repositorio contiene una colección de mis proyectos de anàlisis de datos,
 
 
 ## Proyectos POWER BI
+
+## Proyectos TRANSVERSALES
+[1. Dashboard FCB scouting](Proyecto_3/)
+- Descripción: Realización de un dashboard para el departamento de scouting con la finalidad de democratizar y mejorar la accesibilidad del dato a los usuarios.
+- Programas y modelos: Se han usado los programas Power BI, Google colab y Canva y los lenguajes de programación DAX, Power Query, R y Python. 
+- Resultados: Entrega de un panel interactivo e intuitivo que permite filtrar y comparar diferentes atributos de las jugadoras de forma autónoma, sin necesidad de conocimientos previos de programación.
