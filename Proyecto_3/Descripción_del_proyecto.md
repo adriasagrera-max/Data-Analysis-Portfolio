@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <strong>Modelo de estrella</strong><br>
+  <strong>Modelo estrella</strong><br>
   <img width="470" alt="Vista previa del Dashboard" src="https://github.com/user-attachments/assets/4281826a-a84c-46c9-9d92-3196bd950b4e" />
 </p>
 
